@@ -1,0 +1,21 @@
+{
+  "name": "ts-sandbox",
+  "version": "1.0.0",
+  "description": "Typescript sandbox",
+  "main": "index.ts",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "nadeocfg",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.4",
+    "@babel/preset-typescript": "^7.21.4",
+    "typescript": "^5.0.3",
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
